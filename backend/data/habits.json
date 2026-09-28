@@ -1,0 +1,78 @@
+{
+  "settings": {
+    "displayName": "Friend",
+    "theme": "dark",
+    "timezone": "UTC",
+    "weekStart": 1
+  },
+  "habits": [
+    {
+      "id": "442a329a-4728-4c92-a469-8f2899eb547b",
+      "description": "",
+      "category": "Health",
+      "icon": "star",
+      "color": "#16a34a",
+      "startDate": "2026-09-28",
+      "schedule": {
+        "type": "daily"
+      },
+      "active": true,
+      "history": {
+        "2026-09-28": "completed"
+      },
+      "createdAt": "2026-09-28T14:19:26.532Z",
+      "name": "3 hours of learning"
+    },
+    {
+      "id": "b925c1aa-a85d-47e1-8c0a-a6d882896cff",
+      "description": "",
+      "category": "Fitness",
+      "icon": "star",
+      "color": "#fbff1a",
+      "startDate": "2026-09-28",
+      "schedule": {
+        "type": "daily"
+      },
+      "active": true,
+      "history": {
+        "2026-09-28": "completed"
+      },
+      "createdAt": "2026-09-28T14:23:34.285Z",
+      "name": "Cardio"
+    },
+    {
+      "id": "aa21ff77-a8c7-4aee-a505-efc9dfe81054",
+      "description": "",
+      "category": "General",
+      "icon": "star",
+      "color": "#ff0000",
+      "startDate": "2026-09-28",
+      "schedule": {
+        "type": "daily"
+      },
+      "active": true,
+      "history": {
+        "2026-09-28": "completed"
+      },
+      "createdAt": "2026-09-28T14:24:48.857Z",
+      "name": "No lust"
+    },
+    {
+      "id": "1778b47d-5864-417e-a938-f0d785d72208",
+      "description": "a practice where an individual trains the mind to focus and redirect thoughts, cultivating calm, clarity, and mindfulness",
+      "category": "Mind",
+      "icon": "star",
+      "color": "#0000ff",
+      "startDate": "2026-09-28",
+      "schedule": {
+        "type": "daily"
+      },
+      "active": true,
+      "history": {
+        "2026-09-28": "completed"
+      },
+      "createdAt": "2026-09-28T14:26:26.993Z",
+      "name": "10 min Meditation"
+    }
+  ]
+}
